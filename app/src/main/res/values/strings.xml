@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordCalculator</string>
+    <string name="password_strength_weak">slabe</string>
+    <string name="password_strength_medium">srednie</string>
+    <string name="password_strength_strong">silne</string>
+    <string name="password_strength_very_strong">bardzo silne</string>
+</resources>
